@@ -1,0 +1,2 @@
+# FastLaundry
+To monitor laundry
